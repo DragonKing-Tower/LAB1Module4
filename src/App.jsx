@@ -28,7 +28,11 @@ function App() {
 
 	return (
 		<>
-			<h2>{time}</h2>
+			<title>Cyril's Clock</title>
+			<header>
+				<h1 className="name">Cyril's Clock</h1>
+			</header>
+			<h2 className="time">{time}</h2>
 			{/*display the time dynamically using React */}
 		</>
 	);
