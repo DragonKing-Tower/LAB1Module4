@@ -2,7 +2,7 @@
 
 Thsi is a simple proof of concept clock.
 
-##Running
+## Running
 
 1: Clone the git repository onto your computer.
 
